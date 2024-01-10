@@ -3,7 +3,7 @@ This is a resource repository to enable tech ecosystem in West Michigan
 
 # TheMittenProject 
  
-![View our website](https://themittenproject.com/) and join the community.
+[View our website](https://themittenproject.com/) and join the community.
  
 The **The Mitten Project** is an open-source framework to help members of West MI community, who are passionate about growing a tech startup ecosystem in the area, to learn, connect and contribute.
  
@@ -29,8 +29,7 @@ The best way to interact with our team is through GitHub. You can open an [issue
  
 ## Contributing
  
-We welcome community contributions and pull requests. See
-<insert video link> for information on how to contribute resources to the project.
+We welcome community contributions and pull requests. 
  
 1.     Start by navigating to the main repository https://github.com/themittenproject/the-mitten-project.
 2.     Click on Add File -> Upload File
@@ -52,7 +51,5 @@ By sharing your content you agree to allow others use it for free.
 * Our LinkedIn page: https://www.linkedin.com/company/the-mitten-project
 * Education Framework: https://github.com/themittenproject/the-mitten-project/blob/main/Educational%20Framework%20Intro.pdf
 * Eventbrite space for upcoming events: https://www.eventbrite.com/o/the-mitten-project-75451407433
-* [Changelog](./CHANGELOG.md)
-* [NOTICE](./NOTICE)
 * [License](./LICENSE)
 
